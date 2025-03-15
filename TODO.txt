@@ -1,4 +1,0 @@
-- [ ] leaderboard-old.js should contain the scores from the end of the previous day,
-      so we can add up and down arrows (which will be relative to yesterday)
-
-- [X] Bug: code isn't sorting by the metric
